@@ -11,7 +11,7 @@ namespace DictionaryDemo
             myDictionary.Add(1, "Sezer");
             myDictionary.Add(2, "Celal");
             myDictionary.Add(3, "Bekir");
-            myDictionary.Add(3, "Metin ");
+            myDictionary.Add(3, "Metin");
 
             myDictionary.ToList();
         }
