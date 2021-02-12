@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryDemo", "DictionaryDemo\DictionaryDemo.csproj", "{54AD1839-8F1A-462D-8F4D-0CA451B449C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{B4DDFA93-06FA-4312-A4ED-245F640EB6CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{B4DDFA93-06FA-4312-A4ED-245F640EB6CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret", "ETicaret\ETicaret.csproj", "{A41247F2-5901-4140-9223-BC7063A5DE73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B4DDFA93-06FA-4312-A4ED-245F640EB6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4DDFA93-06FA-4312-A4ED-245F640EB6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4DDFA93-06FA-4312-A4ED-245F640EB6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41247F2-5901-4140-9223-BC7063A5DE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41247F2-5901-4140-9223-BC7063A5DE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41247F2-5901-4140-9223-BC7063A5DE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41247F2-5901-4140-9223-BC7063A5DE73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
