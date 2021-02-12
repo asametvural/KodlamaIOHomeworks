@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryDemo", "DictionaryDemo\DictionaryDemo.csproj", "{54AD1839-8F1A-462D-8F4D-0CA451B449C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryDemo", "DictionaryDemo\DictionaryDemo.csproj", "{54AD1839-8F1A-462D-8F4D-0CA451B449C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMethodDemo", "..\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo.csproj", "{43227D92-1514-480D-BFB2-82FD32931197}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{54AD1839-8F1A-462D-8F4D-0CA451B449C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54AD1839-8F1A-462D-8F4D-0CA451B449C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54AD1839-8F1A-462D-8F4D-0CA451B449C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43227D92-1514-480D-BFB2-82FD32931197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43227D92-1514-480D-BFB2-82FD32931197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43227D92-1514-480D-BFB2-82FD32931197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43227D92-1514-480D-BFB2-82FD32931197}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
